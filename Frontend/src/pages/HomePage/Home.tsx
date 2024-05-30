@@ -133,7 +133,7 @@ function Nothing() {
     return (
         <div>
             <p className=" text-[#DDDDDD] text-[1.5vw] text-center font-['Poppins'] font-smole capitalize">
-                Latest Matches
+                Players not found
             </p>
         </div>
     );
